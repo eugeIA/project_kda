@@ -1,0 +1,17 @@
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    background-color: #FAFCFC;
+    
+}
+.site_title{
+    padding-top: -10px;
+    color:#0E1C27;
+    font-family: Inter;
+font-size: 55px;
+font-weight: 700;
+line-height: 67px;
+letter-spacing: 0em;
+text-align: center;
+
+}

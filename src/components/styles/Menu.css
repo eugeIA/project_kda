@@ -1,0 +1,15 @@
+.menu_list{
+    display:flex;
+    padding-top: 17px;
+}
+.menu_item{
+    list-style-type: none;
+    margin-right: 15px;
+    color:#0E1C27;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;   
+}
